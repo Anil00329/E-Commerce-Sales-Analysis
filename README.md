@@ -6,8 +6,6 @@ This project involves analyzing a comprehensive e-commerce dataset to uncover in
 - [Project Overview](#project-overview)
 - [Dataset Description](#dataset-description)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
 
 
 ## Project Overview
