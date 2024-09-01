@@ -33,3 +33,8 @@ To run this project, you'll need to have the following Python libraries installe
 
 ```bash
 pip install numpy pandas matplotlib seaborn plotly tabulate
+
+
+🚀 About Me
+Hi, I'm Anil! 👋
+I am a Data Science Enthusiast
